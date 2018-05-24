@@ -9,3 +9,8 @@
 - 插入 USB Dongle
 
 程序可以编译通过并顺利运行，运行的第一个测试程序是“TestHalcon01.cpp”
+
+## 3D-Matching
+
+halcon的3D Matching的例子似乎都是以扩展名hdev的文件给出的，这应该是它自己的IDE：HDevelop。关于如何使用它，HALCON有一个说明文档：“hdevelop_users_guide.pdf”。从这篇文档中，我们不幸的得知，HALCON的hdevelop中使用得代码其语法规则是HALCON自己制定的而非目前已经存在的某种语法。所以基本上说是要重新学习。关于3D Matching的部分，做一个PPT来进行总结。
+
